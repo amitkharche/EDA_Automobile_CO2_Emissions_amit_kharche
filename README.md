@@ -75,8 +75,8 @@ This project explores a comprehensive dataset on vehicle specifications and fuel
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-    cd exploratory_data_analysis_projects_amit_kharche/EDA_Automobile_CO2_Emissions_amit_kharche
+    git clone https://github.com/amitkharche/EDA_Automobile_CO2_Emissions_amit_kharche.git
+    cd EDA_Automobile_CO2_Emissions_amit_kharche
     ```
 
 2. **(Optional) Create and activate a virtual environment:**
